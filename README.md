@@ -14,6 +14,15 @@ Website：http://zju-fast.com
 
 Bilibili: https://space.bilibili.com/257271972
 
+### 西安电子科技大学微电子学院——边缘感知芯片实验室 
+
+Website: https://web.xidian.edu.cn/rlai/index.html
+
+Bilibili: https://space.bilibili.com/1747375851
+
+### 上海理工大学机器智能院双足机器人团队
+
+Bilibili: https://space.bilibili.com/497614834
 ## 计算机
 
 
